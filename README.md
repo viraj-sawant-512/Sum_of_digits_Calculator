@@ -1,4 +1,3 @@
-Basically this is a simple beginner-friendly python mini project which gives you the sum of digits of the input number
 # Sum of Digits Calculator
 
 ## About
